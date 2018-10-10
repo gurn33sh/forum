@@ -1,0 +1,42 @@
+#main {
+  margin-top: 40px;
+}
+
+.thread-cell {
+  padding-bottom: 50px;
+}
+
+.thread {
+  padding-right: 10px;
+}
+
+.thread-list {
+  border-spacing: 1em;
+  border: 2px;
+  border-collapse: separate;
+}
+
+.score-indicator {
+  font-size: 1.35em;
+}
+
+#link-thread {
+  font-size: 1.5em;
+}
+
+.comment-list {
+  border-collapse: separate;
+}
+
+table.comment-list > tbody > tr > td {
+  padding-right: 5px;
+}
+
+.comment-author {
+  font-size: 0.8em;
+}
+
+#textarea {
+  padding-top: 20px;
+  background-color: lightgrey;
+}
