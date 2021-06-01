@@ -39,6 +39,6 @@ selenium==3.7.0
 six==1.11.0
 SQLAlchemy==1.1.15
 timeago==1.0.7
-urllib3==1.23
+urllib3==1.26.5
 Werkzeug==0.12.2
 WTForms==2.2.1
